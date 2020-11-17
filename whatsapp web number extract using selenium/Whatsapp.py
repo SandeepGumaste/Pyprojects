@@ -16,7 +16,7 @@ lst = list()
 n = 30 #input("number of clicks")
 m = 0
 cl = list() #Contact list
-while m < n:
+while m < n: #
     try:
         res = driver.find_elements_by_xpath("//span[starts-with(@title,'+91')]")
         for c in res:
