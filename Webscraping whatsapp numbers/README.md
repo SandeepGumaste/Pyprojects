@@ -7,4 +7,4 @@ https://chromedriver.chromium.org/
 
  Stop using the mouse after you scan the qr code (Do not even touch it!).
  You can start using the mouse once it alerts you to log out of Whatsapp web.
- This program works for numbers starting with +91 but you change it (line 28 in the code) to work for whichever country you live in. 
+ This program works for numbers starting with +91 but you can change it (line 28 in the code) to work for whichever country you live in. 
