@@ -5,12 +5,12 @@ I could've exported it directly in '.vcf' format but I still haven't figured out
 
 You'll have to install Selenium and pyAutoGUI for this to run.
 
-Also download chrome driver and place it in the same folder as the program.
+Also download chrome driver and place it in the same folder as this program.
 
 https://chromedriver.chromium.org/
 
  Stop using the mouse after you scan the qr code (Do not even touch it!).
 
  You can start using the mouse once it alerts you to log out of Whatsapp web.
- 
+
  This program works for numbers starting with +91 but you can change it (line 28 in the code) to work for whichever country you live in. 
