@@ -9,7 +9,8 @@ Also download [chrome driver](https://chromedriver.chromium.org/).
 
 --- 
 ---
-
+ * Works only for 1080(h) x 1920(w) resolution.
+ 
  * Stop using the mouse after you scan the qr code (Do not even touch it!).
 
  * You can start using the mouse once it alerts you to log out of Whatsapp web.
